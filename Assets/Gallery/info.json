@@ -1,0 +1,47 @@
+[
+    {
+        "project": "Neuro Speculative Afro Feminism",
+        "organization": "Hypen Labs",
+        "url": "http://www.hyphen-labs.com/nsaf.html",
+        "image": "nsaf.jpg",
+        "credits": [
+            "Ashley Baccus-Clark","Ece Tankal","Carmen Aguilar y Wedge",
+            "Nitzu Bartov","Todd Bryant","Halime Maloof","Lajune Mcmillian",
+            "Michelle Cortese","Adam Harvey","[ab]screenwear","Memoire",
+            "Mert Cetinkaya","Dyane Harvey","Ludmila Leiva","Adam Sobolew",
+            "Future Media Labs","Mind Traveler Design"
+        ],
+        "description":"Neuro Speculative Afro Feminism is part of a broader project imagining technologies of the near future that if black women were the central subject of technological innovation. On the surface, it is a visit to a hair salon in VR - but dig deeper and you'll see an invitation into a social positive vision of the future rooted in the work of Octavia Butler."
+    },
+    {
+        "project": "Hyperbolic V.R.",
+        "organization": "EleVR",
+        "image": "hyperbolic.jpg",
+        "credits": ["Vi Hart","Andrea Hawksley","M Eifler", "Elijah Butterfield", "Evelyn Eastmond","Henry Segerman","Sabetta Matsumoto"],
+        "description": "Hyperbolic v.r. provides a direct experience of the mathematical construct of hyperbolic spaces. As such it provides an excellent example of using v.r. as a means of sense extension and a tool for building intuitions about complex mathematical objects."
+    },
+    {
+        "project": "DataViz V.R.",
+        "organization": "Datavizvr Incorporated",
+        "image":"datavizv.r..jpg",
+        "url": "http://www.datavizv.r..com/",
+        "credits": ["Datavizvr Incorporated"],
+        "description": "DataViz v.r. is a suite of data visualization modules for Head Mounted Displays. It reads a number of different data formats and can map that data to a variety of visual paradigms, inluding three-dimensional scatterplots and barcharts. It represents an early attempt to systematically present data in v.r. for analysis and based on its marketing and agressive End-User-License Agreement could be described as the tableau of the v.r. world."
+    },
+    {
+        "project": "CalcFlow",
+        "organization": "Nanome",
+        "image":"calcflow.png",
+        "url":"http://calcflow.io/",
+        "credits":["Nanome"],
+        "description": "CalcFlow is an education product designed to teach calculus concepts through exploration and experimentation. It represents coordinate space as a data cube that can be rotated and resized with intuitive controls. Its teleportation orbs take users into an experience of concepts such as vector addition, cross product, parameterized functions, mobius strips, integrals, and spherical coordinate mapping. It was released as open source in November 2017."
+    },
+    {
+        "project": "Nano One",
+        "organization": "Nanome",
+        "image":"",
+        "url": "http://store.steampowered.com/app/493430/nanoone/",
+        "credits":["Nanome"],
+        "description": "Nano One is a molecule visualization tool. Much like Folding at Home, it provides a means to understand the real structure of molecules by interacting with them in a three-dimensional space. This project makes excellent use of the spatial capacities of 6-dof tracking to build direct experience of spatial interactions that would otherwise be inaccessible."
+    }
+]
